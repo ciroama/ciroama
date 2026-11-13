@@ -10,10 +10,6 @@ Today I'm especially curious about how **AI** can make teams and processes simpl
 
 - **Business Data Analyst** at The Boots Group: evolving an enterprise Data Platform, requirements and
   functional analysis, backlog management and data quality initiatives (monitoring, dashboards, controls)
-- **Technical Product Owner** for Walgreens Boots Alliance (2021–2025): product backlog, user stories,
-  Scrum and close collaboration with development teams
-- **Business & Data Analyst** for FCA / Stellantis: data models, dashboards and automated audit KPIs
-- **Business Analyst / Team Lead** for Poste Italiane: maintenance and evolution of an anti-fraud system
 
 ## 🛠️ Tools & skills
 
