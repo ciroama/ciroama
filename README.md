@@ -17,9 +17,16 @@ Today I'm especially curious about how **AI** can make teams and processes simpl
 
 Product Management · Requirements & Backlog · Data Analysis & Data Quality · Stakeholder Management · Agile / Scrum
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
-### [AI Scrum Team Workspace](https://github.com/ciroama/ai-scrum-team-workspace)
+### [SaaS Metrics with dbt](https://github.com/ciroama/saas-metrics-dbt) · *November 2026*
+A learning experiment with made-up data: a small dbt project that turns raw subscription data into a monthly
+MRR mart, broken down into new, expansion, contraction and churn. It includes staging and mart layers,
+generic tests and a reconciliation test on the MRR bridge.
+
+`dbt` `DuckDB` `SQL`
+
+### [AI Scrum Team Workspace](https://github.com/ciroama/ai-scrum-team-workspace) · *October 2026*
 A local-first dashboard to study how a small Scrum team of AI agents (Product Owner, Developer and QA)
 turns a request into real, tested software. Every step is recorded, results are verified independently,
 and a human makes every product decision. Built with Claude as development partner.
